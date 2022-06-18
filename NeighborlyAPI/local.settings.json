@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storagedatdd3;AccountKey=qJ9nXK+R6kYfA4ZQ3aHzGSoG5ONfxmyj7O4i/7TacSXHRJ1kAS9XlR0/0xaJUh7EQJlBfurG4h2d+ASt3VOcZg==;EndpointSuffix=core.windows.net",
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      "FUNCTIONS_EXTENSION_VERSION": "~4",
+      "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING":"DefaultEndpointsProtocol=https;AccountName=storagedatdd3;AccountKey=qJ9nXK+R6kYfA4ZQ3aHzGSoG5ONfxmyj7O4i/7TacSXHRJ1kAS9XlR0/0xaJUh7EQJlBfurG4h2d+ASt3VOcZg==;EndpointSuffix=core.windows.net",
+      "WEBSITE_CONTENTSHARE":"funcappdatdd3a4d6",  
+      "MyDbConnection":"mongodb://mongodatdd3:enLTR9geXxoRPhnjkuanBPH72dXXCcxptQyInXtuqiPxAwqYdFrSrc7gvZo7LjRTYax3ydJFTDJGn4g5DQ1cPw==@mongodatdd3.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@mongodatdd3@"
+    }
+  }

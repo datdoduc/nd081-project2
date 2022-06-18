@@ -1,0 +1,13 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "type": "eventGridTrigger",
+      "name": "event",
+      "direction": "in",
+	  "eventHubName": "hubdatdd3", 
+	  "connection": "Endpoint=sb://eventhubdatdd3.servicebus.windows.net/;SharedAccessKeyName=All;SharedAccessKey=+w3mi/4dhYpZhKxOEmgbbWr24y7sd9Tf7cnceqjrGpY=;EntityPath=hubdatdd3"
+    }
+  ]
+}
+
